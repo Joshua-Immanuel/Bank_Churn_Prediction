@@ -1,0 +1,12 @@
+[2024-03-24 14:06:26,893] 127.0.0.1 requested http://127.0.0.1:5000/health-status DEBUG {flask_app_logger Thread-8 (process_request_thread)} : Health check api version 2
+[2024-03-24 22:01:38,608] 127.0.0.1 requested http://127.0.0.1:5000/health-status DEBUG {flask_app_logger Thread-10 (process_request_thread)} : Health check api version 2
+[2024-03-24 22:07:07,311] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:07:39,402] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:08:25,745] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:08:48,749] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:09:26,721] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:09:38,173] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-6 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:11:27,094] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-7 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:12:10,921] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-8 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:12:29,626] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-9 (process_request_thread)} : Churn Prediction API Called
+[2024-03-24 22:16:10,992] 127.0.0.1 requested http://127.0.0.1:5000/churn-prediction DEBUG {flask_app_logger Thread-10 (process_request_thread)} : Churn Prediction API Called
